@@ -30,19 +30,7 @@ go build -o vibe-pdf-read-mcp
 
 3. ImageMagickがインストールされていない場合はインストールします：
 
-**Ubuntu/Debian:**
-```bash
-sudo apt-get update
-sudo apt-get install imagemagick
-```
-
-**macOS:**
-```bash
-brew install imagemagick
-```
-
-**Windows:**
-[ImageMagick公式サイト](https://imagemagick.org/script/download.php#windows)からインストーラーをダウンロードしてください
+[ImageMagick公式サイト](https://imagemagick.org/script/download.php)
 
 ## MCPサーバーとしての使用方法
 
