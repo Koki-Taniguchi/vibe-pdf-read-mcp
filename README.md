@@ -12,7 +12,7 @@ ImageMagickを使用してPDFファイルをPNG画像(base64)に変換しLLMが�
 
 ## 必要な環境
 
-- Go 1.21以上
+- Go 1.24以上
 - ImageMagick 6.x または 7.x
 
 ## インストール
