@@ -1,6 +1,6 @@
 # vibe-pdf-read-mcp
 
-ImageMagickを使用してPDFファイルをPNG画像に変換するModel Context Protocol (MCP) サーバーです。
+ImageMagickを使用してPDFファイルをPNG画像(base64)に変換しLLMが読み込めるようにするModel Context Protocol (MCP) サーバーです。
 
 ## 機能
 
